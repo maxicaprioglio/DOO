@@ -9,10 +9,20 @@ Diseño orientado a objetos - 1° Cuatrimestre 2024
 Biblioteca Municipal "Luz y saber", manejara el sistema de gestion de la biblioteca.
 
 Los requisitos que cuenta son:
-* Busqueda de usuario, libro y tarjeta.
-* Registrar al usuario y que le calcule cuando vence su carnet.
-* Registrar un libro y que se genere la ubicación del libro (genero – autor).
+* Busqueda de usuario, libro, prestamos y facturacion.
+* Registro de usuarios, cargar de libros, prestamos y facturacion.
+* Al registrar un libro se genere la ubicación del libro (genero – autor).
 * Calculo de ubicación: Se debe crear un codigo de busqueda de libro en donde este genero y autor, según biblioteca x y estantes x para cargarlo al libro en el atributo ubicacion.
-* Registro de retiro y devolucion de los libros: que tenga la informacion necesaria del usuario y del libro.
+* Registro de prestamos (retiro y devolucion) de los libros.
+* Cobro de mes y mora por entregar tarde los libros.
+* Diferenciar que libros se pueden retirar y que libros se ven en la biblioteca.
 
+
+## Diagramas y Diseños
+
+Diagramas de actividades https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing
+Diagramas de secuencia 
+Diagramas de clases 
+Diagramas de casos de uso
+Escenarios de casos de uso
 
