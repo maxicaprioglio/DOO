@@ -21,7 +21,7 @@ Los requisitos que cuenta son:
 ## Diagramas y Diseños
 
 Diagramas de actividades https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing
-Diagramas de secuencia https://github.com/maxicaprioglio/DOO/blob/main/Diagramas/DiagramaSecuancia.drawio
+Diagramas de secuencia https://drive.google.com/file/d/1Rxn8ZfgsEdg4STUxlHEaPDScjRRsuK_L/view?usp=sharing
 Diagramas de clases 
 Diagramas de casos de uso
 Escenarios de casos de uso
