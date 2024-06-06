@@ -22,7 +22,7 @@ Los requisitos que cuenta son:
 
 Diagramas de actividades https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing
 Diagramas de secuencia https://drive.google.com/file/d/1Rxn8ZfgsEdg4STUxlHEaPDScjRRsuK_L/view?usp=sharing
-Diagramas de clases 
+Diagramas de clases https://drive.google.com/file/d/1uOziaBAi34paIMgSA7wnWlA24PUEXFlk/view?usp=sharing
 Diagramas de casos de uso https://drive.google.com/file/d/1i82r53emnwhGBcm3aglAHDg5Z2E6B7mP/view?usp=sharing
-Escenarios de casos de uso
+Escenarios de casos de uso 
 
