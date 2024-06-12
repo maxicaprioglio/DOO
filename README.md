@@ -20,7 +20,7 @@ Los requisitos que cuenta son:
 
 ## Diagramas y Diseños
 
-* Diagramas de actividades https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing
+* Diagramas de actividades: [documento](https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing)
 
 * Diagramas de secuencia https://drive.google.com/file/d/1Rxn8ZfgsEdg4STUxlHEaPDScjRRsuK_L/view?usp=sharing
 
