@@ -29,5 +29,7 @@ Los requisitos que cuenta son:
 * Diagramas de casos de uso: [Diagrama](https://drive.google.com/file/d/1i82r53emnwhGBcm3aglAHDg5Z2E6B7mP/view?usp=sharing)
 
 * Escenarios de casos de uso:
+
 Devolucion prestamo libro: [Esenario](https://docs.google.com/spreadsheets/d/1AJEe9Cv2kWg1AdkWlgKtjtNSQ9T6eE3t/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
+
 Solicitar prestamo Libro: [Esenario](https://docs.google.com/spreadsheets/d/1asxBm__lXsT6JXIZh7pWuWfbCKk82pzl/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
