@@ -21,7 +21,7 @@ Los requisitos que cuenta son:
 ## Diagramas y Diseños
 
 
-* Matriz CLAE: [Tabla] (https://drive.google.com/file/d/1iyzUmNYtbAezJejPeMrFDeAvsyW7Suh8/view?usp=sharing)
+* Matriz CLAE: [Tabla](https://drive.google.com/file/d/1iyzUmNYtbAezJejPeMrFDeAvsyW7Suh8/view?usp=sharing)
 
 * Diagramas de clases: [Diagrama](https://drive.google.com/file/d/1ipXGBVHciwRcksjmRdm-TEThU7n-L3c1/view?usp=sharing)
 
