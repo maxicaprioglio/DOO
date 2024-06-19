@@ -24,7 +24,7 @@ Los requisitos que cuenta son:
 
 * Diagramas de secuencia: [Diagrama](https://drive.google.com/file/d/1Rxn8ZfgsEdg4STUxlHEaPDScjRRsuK_L/view?usp=sharing)
 
-* Diagramas de clases: [Diagrama](https://drive.google.com/file/d/1uOziaBAi34paIMgSA7wnWlA24PUEXFlk/view?usp=sharing)
+* Diagramas de clases: [Diagrama](https://drive.google.com/file/d/1ipXGBVHciwRcksjmRdm-TEThU7n-L3c1/view?usp=sharing)
 
 * Diagramas de casos de uso: [Diagrama](https://drive.google.com/file/d/1i82r53emnwhGBcm3aglAHDg5Z2E6B7mP/view?usp=sharing)
 
