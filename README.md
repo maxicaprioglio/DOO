@@ -25,7 +25,7 @@ Los requisitos que cuenta son:
 
 * Diagramas de clases: [Diagrama](https://drive.google.com/file/d/1ipXGBVHciwRcksjmRdm-TEThU7n-L3c1/view?usp=sharing)
 
-
+* Tarjeta CRC: [Tabla](https://drive.google.com/file/d/1tYuV3bDuydXBpqwu2AScOUQvanuH14Uf/view?usp=sharing)
 
 
 * Diagramas de actividades: [Diagrama](https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing)
