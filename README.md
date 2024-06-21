@@ -21,12 +21,11 @@ Los requisitos que cuenta son:
 ## Diagramas y Diseños
 
 
-* Matriz CLAE: [Tabla](https://drive.google.com/file/d/1iyzUmNYtbAezJejPeMrFDeAvsyW7Suh8/view?usp=sharing)
+* Matriz CLAE: [Matriz](https://drive.google.com/file/d/1iyzUmNYtbAezJejPeMrFDeAvsyW7Suh8/view?usp=sharing)
 
 * Diagramas de clases: [Diagrama](https://drive.google.com/file/d/1ipXGBVHciwRcksjmRdm-TEThU7n-L3c1/view?usp=sharing)
 
-* Tarjeta CRC: [Tabla](https://drive.google.com/file/d/1tYuV3bDuydXBpqwu2AScOUQvanuH14Uf/view?usp=sharing)
-
+* Tarjeta CRC: [Tarjeta](https://drive.google.com/file/d/1tYuV3bDuydXBpqwu2AScOUQvanuH14Uf/view?usp=sharing)
 
 * Diagramas de actividades: [Diagrama](https://drive.google.com/file/d/1LT5d1kDJ29aRxVZwZH27co1tJHPe6gzi/view?usp=sharing)
 
@@ -39,3 +38,5 @@ Los requisitos que cuenta son:
 Devolucion prestamo libro: [Esenario](https://docs.google.com/spreadsheets/d/1AJEe9Cv2kWg1AdkWlgKtjtNSQ9T6eE3t/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
 
 Solicitar prestamo Libro: [Esenario](https://docs.google.com/spreadsheets/d/1asxBm__lXsT6JXIZh7pWuWfbCKk82pzl/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
+
+Solicitar registrar usuario: [Esenario]()
