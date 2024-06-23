@@ -20,6 +20,7 @@ Los requisitos que cuenta son:
 
 ## Diagramas y Diseños
 
+* identificacion de casos de usos: [Tabla](https://docs.google.com/spreadsheets/d/1Ux1sErAfe6dEEllpU4shKBAWFkpApPFGWW0_Fk5aeck/edit?usp=sharing)
 
 * Matriz CLAE: [Matriz](https://drive.google.com/file/d/1iyzUmNYtbAezJejPeMrFDeAvsyW7Suh8/view?usp=sharing)
 
