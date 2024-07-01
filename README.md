@@ -41,3 +41,7 @@ Devolucion prestamo libro: [Esenario](https://docs.google.com/spreadsheets/d/1AJ
 Solicitar prestamo Libro: [Esenario](https://docs.google.com/spreadsheets/d/1asxBm__lXsT6JXIZh7pWuWfbCKk82pzl/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
 
 Solicitar registrar usuario: [Esenario](https://docs.google.com/spreadsheets/d/16wLUcLPS8TL4-lMM4lbST1enzyGknBub/edit?usp=sharing&ouid=102553039439844877946&rtpof=true&sd=true)
+
+## Resolución teórica POO
+
+[Examen](https://docs.google.com/document/d/1YDhjgJLv4qoJj7OZAjdHimX7atr_0156-lhrzUrPw1U/edit?usp=sharing)
